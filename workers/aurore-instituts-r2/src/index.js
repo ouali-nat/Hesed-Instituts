@@ -1,7 +1,7 @@
 /**
- * Eneles Instituts — Cloudflare Worker
+ * Hesed Instituts — Cloudflare Worker
  * ------------------------------------
- * Ce Worker est totalement indépendant de l'infrastructure "Eneles Archives"
+ * Ce Worker est totalement indépendant de l'infrastructure "Hesed Archives"
  * (lsnb-pdf-worker-v2, bucket lsnb-documents, ancien frontend, ancien Supabase).
  * Il ne touche à AUCUNE de ces ressources.
  *
